@@ -1,10 +1,16 @@
-## 👋 Hi, I'm Ram Gade
+<h1 align="center">👋 Hi, I'm Ram Gade </h1>
+
+<!--  -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Programmer;Student+At+The+University+Of+Michigan;Data+Science+Major;Sports+Enthusiast;Model+Rocket+Builder;Tropical+Traveller;Cook"></a>
+</p>
+<h1></h1>
 
 <div align="center">
  
   #### 🔭 I’m a student at the University of Michigan studying Data Science with a minor in Mathematics.
   
-  #### 🌱 I’m currently learning natural language processing, data structures & algorithms.
+  #### 🌱 I’m currently learning natural language processing, linear regression techniques, and data structures & algorithms.
   
   #### ⚡ My interests include basketball, pickleball, sneaker collecting, gardening, and tropical travelling among many others!
   
